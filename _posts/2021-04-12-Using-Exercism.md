@@ -12,7 +12,7 @@ title: "Today I Completed My First Problem from Exercism.io"
 
 I hope you like it!
 
-** Today's notes **
+**Today's notes**
 I learned several tools to help me navigate the terminal:
 cd ~ --> takes me home
 cd .. --> gets me up a level
