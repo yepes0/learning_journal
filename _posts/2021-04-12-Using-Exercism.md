@@ -1,8 +1,3 @@
-<head>
-  <meta charset="utf-8"
-        <\head>
-  
-
 layout: post
 title: "Today I Completed My First Problem from Exercism.io"
 
