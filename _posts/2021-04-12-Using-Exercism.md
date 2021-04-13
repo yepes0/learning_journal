@@ -1,5 +1,7 @@
+---
 layout: post
-title: "Today I Completed My First Problem from Exercism.io"
+title: Today I Completed My First Problem from Exercism.io
+---
 
 # Welcome
 

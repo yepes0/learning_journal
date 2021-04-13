@@ -1,13 +1,15 @@
+---
 layout: post
-title: "Today I Completed My First Problem from Exercism.io"
+title: Take-aways from speaking with Pat
+---
 
-# Welcome to my third entry
+# Welcome to my fourth entry
 
-**Hello world**, this is my second Jekyll blog post.
+**Hello world**, this is my thrid Jekyll blog post.
 
 I hope you like it!
 
-**Today's notes**
+**Today's notes on**
 I learned several tools to help me navigate the terminal and make commits:  
 git add  
 git branch -v  
