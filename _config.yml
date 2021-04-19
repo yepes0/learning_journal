@@ -2,7 +2,7 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 https://nicoyepes.github.io/
+url:                 https://nicoyepes.github.io
 baseurl:             'learning_journal/'
 paginate:            5
 permalink:           pretty
