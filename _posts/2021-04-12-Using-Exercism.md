@@ -5,7 +5,7 @@ title: Today I Completed My First Problem from Exercism.io
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my second Jekyll blog post.
 
 I hope you like it!
 

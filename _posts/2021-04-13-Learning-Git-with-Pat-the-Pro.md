@@ -3,7 +3,7 @@ layout: post
 title: Take-aways from speaking with Pat
 ---
 
-# Welcome to my fourth entry
+# Welcome to my third entry
 
 **Hello world**, this is my thrid Jekyll blog post.
 

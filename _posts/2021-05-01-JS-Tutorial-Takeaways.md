@@ -3,7 +3,7 @@ layout: post
 title: Take-aways from Intro JavaScript Course on Scrimba
 ---
 
-# Welcome to my fifth entry
+# Welcome to my sixth entry
 
 "let" is a way that you can you define variables. For example, "let firstName = nico". Let allows us to reassign variables, even using the same variable.
 
